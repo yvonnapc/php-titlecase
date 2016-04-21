@@ -16,7 +16,7 @@ You will need the following things properly installed on your computer:
 
 ## Setup/Installation Requirements
 
-1. Open Terminal and clone into this repository: https://github.com/yvonnapc/php-cdsearch.git<br>
+1. Open Terminal and clone into this repository: https://github.com/yvonnapc/php-titlecase.git<br>
 2. Within the project directory run ```$ composer install``` <br>
 3. Start MAMP<br>
 4. Navigate your browser to ```localhost:8889```<br>
